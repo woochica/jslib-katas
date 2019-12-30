@@ -17,6 +17,6 @@ This kata is based on the [Elephant Carpaccio exercise](http://alistair.cockburn
 
 1. Run `npm install` to install dependencies.
 
-3. Run `npm test kata` to run the unit tests.
+3. Run `npm test` to run the unit tests.
 
 4. Add your test cases to `test.js` and your calculator implementation to `index.js`.
