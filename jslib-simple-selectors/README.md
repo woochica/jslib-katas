@@ -15,3 +15,5 @@ Satisfy the test cases with vanilla JavaScript.
 1. Open `index.html` in a browser and see the tests failing in the Developer/Web console.
 
 2. Add your implementation to `kata.js` to satisfy the test cases.
+
+3. Don't touch `index.html` and `test.js`. Pulling jQuery in is not a solution.
