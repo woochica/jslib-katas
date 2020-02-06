@@ -5,7 +5,8 @@ const split = require('./kata');
 describe('Splits string into elements and returns array', function() {
 
     it('Returns an array', function() {
-        assert.equal(typeof split("hello world"), "array");
+        const arr = split("hello world");
+        assert.equal(Array.isArray(arr), true);
     });
 
     it('Splits word by space', function() {
